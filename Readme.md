@@ -2,17 +2,17 @@
 
 ## Software Recomendados
 
-IntelliJ Community : https://www.jetbrains.com/idea/download/?section=windows
-VisualCode: https://code.visualstudio.com/download
-Postman: https://www.postman.com/downloads/
-Dbeaver: https://dbeaver.io/download/
+IntelliJ Community : https://www.jetbrains.com/idea/download/?section=windows \
+VisualCode: https://code.visualstudio.com/download \
+Postman: https://www.postman.com/downloads/ \
+Dbeaver: https://dbeaver.io/download/ 
 
 ## Crear proyecto Spring Boot
 Ir a : https://start.spring.io/
 
 ## Crear Base de Datos
-MySql Server 8.X
-MySql Workbench 8.X
+MySql Server 8.X \
+MySql Workbench 8.X \
 Tutorial: https://www.youtube.com/watch?v=5OdVJbNCSso
 ```sql
 CREATE DATABASE alkemy;
