@@ -10,6 +10,8 @@ Dbeaver: https://dbeaver.io/download/
 ## Crear proyecto Spring Boot
 Ir a : https://start.spring.io/
 
+![](./imagenes/springboot%20Inicializador.bmp)
+
 ## Crear Base de Datos
 MySql Server 8.X \
 MySql Workbench 8.X \
@@ -57,3 +59,4 @@ public class User {
     private String lastName;  
 }
 ```
+
