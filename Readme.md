@@ -72,3 +72,10 @@ Los repositorios van en la carpeta "repository".
 public interface UserRepository extends JpaRepository<User,Long> {
 }
 ```
+
+## Mapeo de relaciones entre entidades
+
+Las entidades(tablas) pueden tener relaciones entre ellas: Uno a Uno, Uno a Muchos, Mucho a Muchos. \
+Las relaciones tambien tienen una direccion: unidireccional o bidireccional. \
+El siguiente link muestra como mapear las relaciones entre entidades: \
+https://stackabuse.com/a-guide-to-jpa-with-hibernate-relationship-mapping/
