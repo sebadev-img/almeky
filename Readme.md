@@ -60,3 +60,15 @@ public class User {
 }
 ```
 
+## Como crear el Repositorio para cada modelo
+
+Cada Entidad(modelo) va a tener un repositorio, el repositorio nos brinda metodos para hacer operaciones en la BD.
+Los repositorios van en la carpeta "repository".
+
+/src/main/java/alkywallet/repository/UserRepository
+
+```java
+@Repository // anotacion para que Spring sepa que es un repositorio
+public interface UserRepository extends JpaRepository<User,Long> {
+}
+```
